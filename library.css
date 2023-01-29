@@ -1,0 +1,120 @@
+.library{
+    /* border: 2px yellowgreen solid; */
+    width: 98vw;
+    height: 400vh;
+}
+.libitm{
+    width: 1470px;
+    height: 800px;
+    ;
+    /* border: 2px green solid; */
+    margin: 15px;
+    display: inline-flex;
+}
+.lib{
+    border: 20px rgb(75, 75, 74) solid;
+    width: 270px;
+    height: 270px;
+    margin: 8px;
+    margin-left: 40px;
+    margin-top: 90px;
+    color: aliceblue;
+    background-color:rgb(75, 75, 74) ;
+    text-align: center;
+    border-radius: 20px;
+    font-size: larger;
+    font-weight: bold;
+    box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s;
+}
+.libA{
+    border: 20px rgb(75, 75, 74) solid;
+    width: 270px;
+    height: 270px;
+    margin: 8px;
+   
+    margin-left: 40px;
+    color: aliceblue;
+    background-color:rgb(75, 75, 74) ;
+    text-align: center;
+    border-radius: 20px;
+    font-size: larger;
+    font-weight: bold;
+    box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s;
+}
+
+.librarytm :hover{
+    color: rgb(36, 32, 32);
+    transform: translateY(-10px);
+    transition: all .3s ease-out;
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.lib1{
+    border: 10px rgb(32, 32, 32) solid;
+    border-radius: 10px;
+    width: 175px;
+    height: 190px;
+    margin: 8px;
+    margin-top: 100px;
+    margin-left: 40px;
+    color: aliceblue;
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+}
+.lib2{
+    border: 10px rgb(32, 32, 32) solid;
+    border-radius: 10px;
+    width: 175px;
+    height: 190px;
+    margin: 8px;
+    margin-left: 40px;
+    color: aliceblue;
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+}
+.librarytm{
+    display: block;
+   
+}
+
+.lib img{
+    width: 270px;
+    height: 240px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.libA img{
+    width: 270px;
+    height: 240px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+.lib1 img{
+    width: 175px;
+    height: 163px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.lib2 img{
+    width: 175px;
+    height: 163px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.artist{
+  
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+}
+.sang{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+}

@@ -1,0 +1,279 @@
+.searchmain{
+    /* border: 2px green solid; */
+    width: 98.5vw;
+    height: 55vh;
+    display: flex;
+}
+.recsearch{
+    border: 20px rgb(58, 55, 55) solid;
+    width: 210px;
+    height: 260px;
+  border-radius: 5px;
+    margin: 20px;
+    color: aqua;
+    background-color:rgb(58, 55, 55);
+    box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+    
+}
+.recsearch:hover{
+    color: rgb(36, 32, 32);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.recsearch1{
+    border: 20px rgb(58, 55, 55) solid;
+    width: 210px;
+    height: 260px;
+  border-radius: 5px;
+    margin: 20px;
+    color: aqua;
+    margin-top: 68px;
+    background-color:rgb(58, 55, 55);
+    box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+ 
+}
+.recsearch1:hover{
+    color: rgb(36, 32, 32);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browse{
+    /* border: 2px rgb(239, 120, 120) solid; */
+    width: 1513px;
+    height: 2130px;
+}
+.browseitm{
+    width: 1480px;
+    height: 270px;
+    /* border: 2px green solid; */
+    margin: 15px;
+    display: inline-flex;
+}
+.browsesong{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgb(106, 11, 11), pink);
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong1{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 160px;
+    text-align: center;
+    margin: 5px;
+    background: linear-gradient(rgb(181, 61, 1), rgb(162, 94, 106));
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong1:hover{
+     color: rgb(36, 32, 32);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+
+.browsesong2{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgb(124, 0, 0), pink);
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong2:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong3{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgba(138, 105, 48, 0.792), rgb(168, 62, 80));
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong3:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong4{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgb(225, 0, 0), rgb(71, 49, 52));
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong4:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong5{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgb(86, 30, 30), rgb(52, 37, 39));
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong5:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong6{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgb(71, 1, 1), rgb(170, 70, 86));
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s;
+}
+.browsesong6:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong7{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgba(223, 89, 0, 0.904), rgb(168, 44, 65));
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong7:hover{
+     color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+.browsesong8{
+    border: 10px rgb(42, 38, 38) solid;
+    height: 190px;
+    width: 170px;
+    margin: 5px;
+    margin-top: 52px;
+    background:  linear-gradient(to right, rgb(113, 51, 51), rgb(244, 11, 50));
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 5px;
+     box-shadow: inset -1px -1px 2px rgba(209, 91, 91, 0.2),
+    2px 2px 5px rgb(245, 241, 241);
+    transition: 0.2s
+}
+.browsesong8:hover{
+color: rgb(216, 203, 203);
+    transform: translateY(-8px);
+    box-shadow: inset -1px -1px 2px rgba(0,0,0,0.2),
+    2px 24px 10px rgba(0,0,0,0.1);
+}
+#searchbox{
+  text-align: center;
+}
+.recentsearch{
+    color: aliceblue;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+.browsename{
+    color: aliceblue;
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.recsearch img{
+    width: 210px;
+    height: 200px;
+    border-radius: 5px;
+}
+.recsearch1 img{
+    width: 210px;
+    height: 200px;
+    border-radius: 5px;
+     
+}
